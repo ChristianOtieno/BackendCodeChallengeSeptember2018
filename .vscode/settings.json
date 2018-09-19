@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/65fa0bdd-0b85-4a9c-8aba-9bcf7b81a3ad/resourceGroups/appsvc_rg_windows_centralus/providers/Microsoft.Web/sites/Foothill",
+    "appService.deploySubpath": ""
+}
